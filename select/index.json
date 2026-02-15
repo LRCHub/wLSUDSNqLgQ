@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Everywhere",
+  "base_artist": "Fleetwood Mac",
+  "createdAt": "2026-02-15T14:47:50.453241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everywhere",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/01_Everywhere_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everywhere but On",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/02_Everywhere_but_On_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everywhere But On",
+      "artist": "Matt Stell",
+      "has_synced": true,
+      "path": "select/03_Everywhere_But_On_Matt_Stell.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everywhere I'm Goin'",
+      "artist": "Maddie & Tae",
+      "has_synced": true,
+      "path": "select/04_Everywhere_I'm_Goin'_Maddie_&_Tae.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Everywhere We Go",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/05_Everywhere_We_Go_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I've Been Everywhere",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/06_I've_Been_Everywhere_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I've Been Everywhere",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_I've_Been_Everywhere_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I've Been Everywhere (Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/08_I've_Been_Everywhere_(Album_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I've Been Everywhere - Remastered",
+      "artist": "Hank Snow",
+      "has_synced": true,
+      "path": "select/09_I've_Been_Everywhere_-_Remastered_Hank_Snow.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everywhere & Allover",
+      "artist": "Lali Puna",
+      "has_synced": false,
+      "path": "select/10_Everywhere_&_Allover_Lali_Puna.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everywhere You Turn",
+      "artist": "Longwave",
+      "has_synced": false,
+      "path": "select/11_Everywhere_You_Turn_Longwave.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Go Everywhere",
+      "artist": "Medeski, Martin & Wood",
+      "has_synced": true,
+      "path": "select/12_Let's_Go_Everywhere_Medeski,_Martin_&_Wood.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "You’ve Had Me Everywhere",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/13_You’ve_Had_Me_Everywhere_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Here There and Everywhere",
+      "artist": "Episode Six",
+      "has_synced": false,
+      "path": "select/14_Here_There_and_Everywhere_Episode_Six.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everywhere",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/pl_01_Everywhere_Fleetwood_Mac.txt"
+    }
+  ]
+}
